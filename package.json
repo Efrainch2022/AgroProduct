@@ -1,0 +1,20 @@
+{
+  "name": "agroproduct",
+  "version": "1.0.0",
+  "description": "Tienda virtual de productos organicos",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Efrainch2022/AgroProduct.git"
+  },
+  "author": "Efrain Chavisnan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mogoose": "^0.0.1-security"
+  }
+}
